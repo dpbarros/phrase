@@ -1,4 +1,4 @@
-# myRevisions
+# phrase
 
 Este software tem por objetivo ajudar pessoas em suas revisões durante a aprendizagem de um idioma.
 
